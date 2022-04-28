@@ -1,0 +1,6 @@
+package: pacserver
+version: 1.0.0
+architecture: amd64
+maintainer: lomoalbert
+description: proxy auto configuration server 
+
